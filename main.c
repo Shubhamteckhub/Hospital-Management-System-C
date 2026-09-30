@@ -9,7 +9,7 @@ MYSQL *conn;
 /* Database Credentials - Change these as needed */
 #define MYSQL_HOST "localhost"
 #define MYSQL_USER "root"
-#define MYSQL_PASSWORD "YOUR_PASSWORD"  /* <-- Replace with your MySQL Password */
+#define MYSQL_PASSWORD "YOUR_PASSWORD" 
 #define MYSQL_DATABASE "hospital_db23"
 #define MYSQL_PORT 3300                 
 
