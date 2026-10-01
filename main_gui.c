@@ -7,9 +7,9 @@
 /* Database Credentials */
 #define DB_HOST "localhost"
 #define DB_USER "root"
-#define DB_PASSWORD "YOUR_PASSWORD"  /* <-- Replace with your MySQL Password */
+#define DB_PASSWORD "YOUR_PASSWORD"  
 #define DB_NAME "hospital_db23"
-#define DB_PORT 3300                /* <-- Your MySQL Port (3300 or 3306) */
+#define DB_PORT 3300             
 
 /* Global Connection Handle */
 MYSQL *conn = NULL;
